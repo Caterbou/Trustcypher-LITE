@@ -1,4 +1,4 @@
-![Trustcypher Lite Logo](https://github.com/Caterbou/Zapvisitor/blob/main/public/assets/img/zapvisitor_logo_removebg.png)  
+![Trustcypher Lite Logo](https://github.com/Caterbou/Trustcypher-LITE/blob/main/public/img/trustcypher-lite-logo-big.png)  
 
 Trustcypherlite
 ===============
